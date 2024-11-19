@@ -1,0 +1,12 @@
+body {
+  background: -webkit-linear-gradient(90deg, #2c2626, #232729, #36443d);
+  background: linear-gradient(90deg, #2c2626, #232729, #36443d);
+}
+
+img:hover {
+  filter: brightness(200%);
+}
+
+.card-degradado {
+  background: -webkit-linear-gradient(90deg, #174d87,#4685c8,#1866af);/* Chrome 10-25, Safari 5.1-6 */                          background: linear-gradient(90deg, #174d87,#4685c8,#1866af);/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */                                             
+}
